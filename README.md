@@ -1,2 +1,2 @@
-# coherent-approval
+# palpable
 Simple approval interceptor for anything
